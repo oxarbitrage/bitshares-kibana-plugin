@@ -1,3 +1,7 @@
+# NOTE
+
+This github repo is legacy. Find latest development at [https://github.com/Gradiant/dockerized-kibana](https://github.com/Gradiant/dockerized-kibana)
+
 # Kibana style customization
 
 This is a Kibana plugin to inject gradiant's custom css to kibana.
