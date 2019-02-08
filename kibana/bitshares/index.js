@@ -3,10 +3,10 @@ export default function (kibana) {
   return new kibana.Plugin({
    uiExports: {
      app: {
-        title: 'gradiant_style',
+        title: 'bitshares',
         order: -100,
-        description: 'Gradiant Styling',
-        main: 'plugins/gradiant_style/index.js',
+        description: 'Bitshares Theme',
+        main: 'plugins/bitshares/index.js',
         hidden: true
      }
     }
